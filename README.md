@@ -3,6 +3,8 @@
 
 A simple app to track the books at a library, organizing them by different data, including whether they are checked out.
 
+See it deployed here: https://local-library-project-vert.vercel.app
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-c-waldron/)
 
